@@ -1,12 +1,18 @@
-# Getting Started with Create React App
+# **About this project**
+1. This project is a personal project for me to better my skills with react and redux
+2. This project will be an application for users to be able to add their favorite movie to a collection, this collection will store genres of movies, streaming services to watch the movie, when the movie was added to the collection; for users to easily be able to find old movies they have seen and liked.
+3. This project will use firebase to store the users collections and handle authentication
+4. This project will use OMDB api for movie info.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with this project
 
-## Available Scripts
+Upon cloning this project in the project directory, you can run:
 
-In the project directory, you can run:
+### `npm i/ npm install` this will install all necessary packages and libraries
+### `npm start` this will start a local server to run the project 
 
-### `npm start`
+
+# *More react boiler plate stuff*
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
