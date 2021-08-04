@@ -8,22 +8,22 @@ const Directory = (props) => {
     {
       name: "home",
       id: 1,
-      link: "./",
+      linkUrl: "./",
     },
     {
       name: "movie search",
       id: 2,
-      link: "./movieSearch",
+      linkUrl: "movieSearch",
     },
     {
       name: "suggestions",
       id: 3,
-      link: "./suggestions",
+      linkUrl: "suggestions",
     },
     {
       name: "your collection",
       id: 4,
-      link: "./yourCollection",
+      linkUrl: "yourCollection",
     },
   ]);
 
